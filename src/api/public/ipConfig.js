@@ -1,0 +1,1 @@
+// export const showVideoIp = 'http://39.107.78.186:8001'; // 视频播放的ip
